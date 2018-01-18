@@ -59,3 +59,6 @@ If you want to use your own video, make sure it has an audio track.
 [http://stackoverflow.com/questions/26896400/how-to-allow-system-sleep-on-non-fullscreen-html5-video](http://stackoverflow.com/questions/26896400/how-to-allow-system-sleep-on-non-fullscreen-html5-video)
 
 [https://productforums.google.com/forum/#!msg/youtube/C72RHsRYDpo/XE15rBP3gZUJ](https://productforums.google.com/forum/#!msg/youtube/C72RHsRYDpo/XE15rBP3gZUJ)
+
+[http://qnimate.com/prevent-sleep-using-html5-standby-api/]
+(http://qnimate.com/prevent-sleep-using-html5-standby-api/)
