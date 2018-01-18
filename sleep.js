@@ -32,6 +32,22 @@ var sleep = {
 
         this._video.setAttribute('loop', 'loop');
         this._video.play();
+        navigator.wakeLock.request("display").then(
+            function successFunction() {
+                // success
+            },
+            function errorFunction() {
+                // error
+            }
+        //here system indicates CPU, GPU, radio, wifi etc.
+        navigator.wakeLock.request("system").then(
+            function successFunction() {
+                // success
+            },
+            function errorFunction() {
+                // error
+            }
+        ); 
     },
     allow: function() {
         if (!this._video) {
@@ -40,6 +56,7 @@ var sleep = {
 
         this._video.removeAttribute('loop');
         this._video.pause();
+        navigator.wakeLock.release("display");
     },
     _init: function() {
         this._video = document.createElement('video');
