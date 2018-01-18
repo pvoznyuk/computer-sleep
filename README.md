@@ -60,5 +60,4 @@ If you want to use your own video, make sure it has an audio track.
 
 [https://productforums.google.com/forum/#!msg/youtube/C72RHsRYDpo/XE15rBP3gZUJ](https://productforums.google.com/forum/#!msg/youtube/C72RHsRYDpo/XE15rBP3gZUJ)
 
-[http://qnimate.com/prevent-sleep-using-html5-standby-api/]
-(http://qnimate.com/prevent-sleep-using-html5-standby-api/)
+[http://qnimate.com/prevent-sleep-using-html5-standby-api/](http://qnimate.com/prevent-sleep-using-html5-standby-api/)
